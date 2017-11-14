@@ -1,0 +1,30 @@
+body
+{
+	background-color: grey;
+}
+h1, p
+{
+	font-style: oblique;
+	font-family: "Gulim", Times, serif;
+	font-size: 12pt;
+	font-color: green;
+	text-align: justify;
+}
+
+a.lin
+{
+	text-align: center;
+}
+
+h3.an
+{
+	font-size: 15pt;
+	text-align: center;
+	color: red;
+}
+
+p.ong
+{
+	text-align: right;
+	font-family: "Times" serif;
+}
